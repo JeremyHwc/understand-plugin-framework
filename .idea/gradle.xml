@@ -18,19 +18,7 @@
             <option value="$PROJECT_DIR$/service-management" />
           </set>
         </option>
-        <option name="myModules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/ams-pms-hook" />
-            <option value="$PROJECT_DIR$/binder-hook" />
-            <option value="$PROJECT_DIR$/classloader-hook" />
-            <option value="$PROJECT_DIR$/contentprovider-management" />
-            <option value="$PROJECT_DIR$/dynamic-proxy-hook" />
-            <option value="$PROJECT_DIR$/intercept-activity" />
-            <option value="$PROJECT_DIR$/receiver-management" />
-            <option value="$PROJECT_DIR$/service-management" />
-          </set>
-        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
